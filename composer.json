@@ -1,5 +1,5 @@
 {
-  "name": "thomaslorentsen/semver",
+  "name": "thomaslorentsen/semver-test",
   "description": "Semver test",
   "license": "MIT",
   "authors": [
@@ -14,5 +14,8 @@
       "type": "git",
       "url": "https://github.com/thomaslorentsen/semver"
     }
-  ]
+  ],
+  "require": {
+    "thomaslorentsen/semver": "0.0.1"
+  }
 }
