@@ -1,0 +1,11 @@
+{
+  "name": "thomaslorentsen/semver",
+  "description": "Semver test",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tom Lorentsen",
+      "email": "tom@thomaslorentsen.co.uk"
+    }
+  ]
+}
