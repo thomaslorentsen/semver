@@ -8,6 +8,7 @@
       "email": "tom@thomaslorentsen.co.uk"
     }
   ],
+  "minimum-stability": "dev"
   "repositories": [
     {
       "type": "git",
